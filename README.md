@@ -1,5 +1,5 @@
 ## News App
-![MergedImages](https://github.com/TahaYounis/NewsApp_/assets/82248336/afe11ac2-57fb-4b68-a865-29b03432ef10)
+![MergedImages](https://github.com/TahaYounis/NewsApp_/assets/82248336/107e46ab-5377-47d9-a161-0098813c4dd4)
 
 ## Technologies
 - Jetpack compose
